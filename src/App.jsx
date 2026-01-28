@@ -2,10 +2,6 @@
 
 import React, { useState } from 'react';
 import './App.css';
-import Header from './components/header/header';
-import TaskForm from './components/taskform/taskform';
-import TaskList from './components/tasklist/tasklist';
-import Filters from './components/filters/filters';
 import './styles/global.css'; // Adicione esta linha
 
 function App() {
