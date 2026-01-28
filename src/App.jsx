@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import './App.css';
-import './styles/global.css'; // Adicione esta linha
+import './styles/global.css'; 
 
 function App() {
   // Estado para categorias
